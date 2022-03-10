@@ -1,0 +1,27 @@
+container {
+    padding-top: 30px;
+    width: 400px;
+    margin: auto;
+  }
+  
+  .wrapper {
+    display: center;
+  }
+  
+  .input {
+    padding: 5px 15px;
+    width: 300px;
+  }
+  
+  .search-result {
+    margin-top: 30px;
+  }
+  .item {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    background: #acfacd;
+    display: flex;
+    justify-content: space-between;
+  }
+  
